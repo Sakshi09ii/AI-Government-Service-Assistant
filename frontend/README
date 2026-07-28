@@ -1,0 +1,145 @@
+# 🤖 AI Government Service Assistant
+
+An AI-powered Government Public Service Assistant that helps citizens easily discover government schemes, understand required documents, ask questions in natural language, and interact through text or voice.
+
+This project combines Artificial Intelligence, Natural Language Processing (NLP), Machine Learning, and Large Language Models (LLMs) to make government services more accessible.
+
+---
+
+# 📌 Features
+
+- 💬 AI Chatbot for government-related queries
+- 🗣️ Voice Input using Whisper
+- 🔊 Voice Output support
+- 🌐 Multilingual interaction
+- 📄 Government Scheme Recommendation
+- 📑 Document & Eligibility Guidance
+- 🤖 Intent Detection using Machine Learning
+- 🧠 LLM-powered intelligent responses using Ollama
+- ⚡ FastAPI backend
+- 🎨 Modern Next.js frontend
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+### Backend
+- FastAPI
+- Python
+
+### AI / Machine Learning
+- Scikit-learn
+- TF-IDF Vectorizer
+- Support Vector Machine (SVM)
+- NLP
+
+### LLM
+- Ollama
+
+### Voice Processing
+- Whisper
+
+---
+
+# 📂 Project Structure
+
+```
+AI-Government-Service-Assistant
+│
+├── backend
+│   ├── api
+│   ├── data
+│   ├── llm
+│   ├── memory
+│   ├── models
+│   └── src
+│
+├── frontend
+│   ├── app
+│   ├── components
+│   ├── public
+│   └── lib
+│
+└── start_project.bat
+```
+
+---
+
+# 🚀 Installation
+
+## Clone the Repository
+
+```bash
+git clone https://github.com/Sakshi09ii/AI-Government-Service-Assistant.git
+```
+
+## Backend
+
+```bash
+cd backend
+
+pip install -r requirements.txt
+
+python api.py
+```
+
+## Frontend
+
+```bash
+cd frontend
+
+npm install
+
+npm run dev
+```
+
+---
+
+# 📸 Screenshots
+
+### Home Page
+
+(Add screenshot here)
+
+### Chat Interface
+
+(Add screenshot here)
+
+### Voice Assistant
+
+(Add screenshot here)
+
+---
+
+# 🎯 Future Improvements
+
+- User authentication
+- Government API integration
+- Real-time scheme updates
+- Mobile application
+- Cloud deployment
+- Personalized recommendations
+
+---
+
+# 👩‍💻 Author
+
+**Sakshi Jogdand**
+
+CSE (Artificial Intelligence & Machine Learning)
+
+VIT Pune
+
+GitHub: https://github.com/Sakshi09ii
+
+---
+
+# ⭐ If you like this project
+
+Please consider giving it a ⭐ on GitHub.
