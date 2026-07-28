@@ -1,0 +1,501 @@
+query,intent
+What is PM Kisan?,scheme_search
+Can you explain the Ayushman Bharat scheme?,scheme_search
+Tell me about PM Awas Yojana.,scheme_search
+I heard about Ujjwala Yojana. What does it do?,scheme_search
+Give me details about Skill India.,scheme_search
+What is National Scholarship?,scheme_search
+Can you explain the Atal Pension Yojana scheme?,scheme_search
+Tell me about Jan Dhan Yojana.,scheme_search
+I heard about PM Kisan. What does it do?,scheme_search
+Give me details about Ayushman Bharat.,scheme_search
+What is PM Awas Yojana?,scheme_search
+Can you explain the Ujjwala Yojana scheme?,scheme_search
+Tell me about Skill India.,scheme_search
+I heard about National Scholarship. What does it do?,scheme_search
+Give me details about Atal Pension Yojana.,scheme_search
+What is Jan Dhan Yojana?,scheme_search
+Can you explain the PM Kisan scheme?,scheme_search
+Tell me about Ayushman Bharat.,scheme_search
+I heard about PM Awas Yojana. What does it do?,scheme_search
+Give me details about Ujjwala Yojana.,scheme_search
+What is Skill India?,scheme_search
+Can you explain the National Scholarship scheme?,scheme_search
+Tell me about Atal Pension Yojana.,scheme_search
+I heard about Jan Dhan Yojana. What does it do?,scheme_search
+Give me details about PM Kisan.,scheme_search
+What is Ayushman Bharat?,scheme_search
+Can you explain the PM Awas Yojana scheme?,scheme_search
+Tell me about Ujjwala Yojana.,scheme_search
+I heard about Skill India. What does it do?,scheme_search
+Give me details about National Scholarship.,scheme_search
+What is Atal Pension Yojana?,scheme_search
+Can you explain the Jan Dhan Yojana scheme?,scheme_search
+Tell me about PM Kisan.,scheme_search
+I heard about Ayushman Bharat. What does it do?,scheme_search
+Give me details about PM Awas Yojana.,scheme_search
+What is Ujjwala Yojana?,scheme_search
+Can you explain the Skill India scheme?,scheme_search
+Tell me about National Scholarship.,scheme_search
+I heard about Atal Pension Yojana. What does it do?,scheme_search
+Give me details about Jan Dhan Yojana.,scheme_search
+Am I eligible for PM Kisan if I am a farmers?,eligibility_query
+Who can apply for Ayushman Bharat?,eligibility_query
+What are the eligibility criteria for PM Awas Yojana?,eligibility_query
+Can a senior citizens benefit from Ujjwala Yojana?,eligibility_query
+Do I qualify for Skill India?,eligibility_query
+Am I eligible for National Scholarship if I am a small business owners?,eligibility_query
+Who can apply for Atal Pension Yojana?,eligibility_query
+What are the eligibility criteria for Jan Dhan Yojana?,eligibility_query
+Can a farmers benefit from PM Kisan?,eligibility_query
+Do I qualify for Ayushman Bharat?,eligibility_query
+Am I eligible for PM Awas Yojana if I am a women?,eligibility_query
+Who can apply for Ujjwala Yojana?,eligibility_query
+What are the eligibility criteria for Skill India?,eligibility_query
+Can a small business owners benefit from National Scholarship?,eligibility_query
+Do I qualify for Atal Pension Yojana?,eligibility_query
+Am I eligible for Jan Dhan Yojana if I am a rural families?,eligibility_query
+Who can apply for PM Kisan?,eligibility_query
+What are the eligibility criteria for Ayushman Bharat?,eligibility_query
+Can a women benefit from PM Awas Yojana?,eligibility_query
+Do I qualify for Ujjwala Yojana?,eligibility_query
+Am I eligible for Skill India if I am a unemployed youth?,eligibility_query
+Who can apply for National Scholarship?,eligibility_query
+What are the eligibility criteria for Atal Pension Yojana?,eligibility_query
+Can a rural families benefit from Jan Dhan Yojana?,eligibility_query
+Do I qualify for PM Kisan?,eligibility_query
+Am I eligible for Ayushman Bharat if I am a students?,eligibility_query
+Who can apply for PM Awas Yojana?,eligibility_query
+What are the eligibility criteria for Ujjwala Yojana?,eligibility_query
+Can a unemployed youth benefit from Skill India?,eligibility_query
+Do I qualify for National Scholarship?,eligibility_query
+Am I eligible for Atal Pension Yojana if I am a persons with disabilities?,eligibility_query
+Who can apply for Jan Dhan Yojana?,eligibility_query
+What are the eligibility criteria for PM Kisan?,eligibility_query
+Can a students benefit from Ayushman Bharat?,eligibility_query
+Do I qualify for PM Awas Yojana?,eligibility_query
+Am I eligible for Ujjwala Yojana if I am a senior citizens?,eligibility_query
+Who can apply for Skill India?,eligibility_query
+What are the eligibility criteria for National Scholarship?,eligibility_query
+Can a persons with disabilities benefit from Atal Pension Yojana?,eligibility_query
+Do I qualify for Jan Dhan Yojana?,eligibility_query
+What benefits does PM Kisan provide?,benefit_query
+How does Ayushman Bharat help beneficiaries?,benefit_query
+What support is available under PM Awas Yojana?,benefit_query
+What are the advantages of Ujjwala Yojana?,benefit_query
+What assistance can I get from Skill India?,benefit_query
+What benefits does National Scholarship provide?,benefit_query
+How does Atal Pension Yojana help beneficiaries?,benefit_query
+What support is available under Jan Dhan Yojana?,benefit_query
+What are the advantages of PM Kisan?,benefit_query
+What assistance can I get from Ayushman Bharat?,benefit_query
+What benefits does PM Awas Yojana provide?,benefit_query
+How does Ujjwala Yojana help beneficiaries?,benefit_query
+What support is available under Skill India?,benefit_query
+What are the advantages of National Scholarship?,benefit_query
+What assistance can I get from Atal Pension Yojana?,benefit_query
+What benefits does Jan Dhan Yojana provide?,benefit_query
+How does PM Kisan help beneficiaries?,benefit_query
+What support is available under Ayushman Bharat?,benefit_query
+What are the advantages of PM Awas Yojana?,benefit_query
+What assistance can I get from Ujjwala Yojana?,benefit_query
+What benefits does Skill India provide?,benefit_query
+How does National Scholarship help beneficiaries?,benefit_query
+What support is available under Atal Pension Yojana?,benefit_query
+What are the advantages of Jan Dhan Yojana?,benefit_query
+What assistance can I get from PM Kisan?,benefit_query
+What benefits does Ayushman Bharat provide?,benefit_query
+How does PM Awas Yojana help beneficiaries?,benefit_query
+What support is available under Ujjwala Yojana?,benefit_query
+What are the advantages of Skill India?,benefit_query
+What assistance can I get from National Scholarship?,benefit_query
+What benefits does Atal Pension Yojana provide?,benefit_query
+How does Jan Dhan Yojana help beneficiaries?,benefit_query
+What support is available under PM Kisan?,benefit_query
+What are the advantages of Ayushman Bharat?,benefit_query
+What assistance can I get from PM Awas Yojana?,benefit_query
+What benefits does Ujjwala Yojana provide?,benefit_query
+How does Skill India help beneficiaries?,benefit_query
+What support is available under National Scholarship?,benefit_query
+What are the advantages of Atal Pension Yojana?,benefit_query
+What assistance can I get from Jan Dhan Yojana?,benefit_query
+What documents are required for PM Kisan?,document_query
+Which certificates do I need for Ayushman Bharat?,document_query
+Do I need Aadhaar to apply for PM Awas Yojana?,document_query
+Tell me the document requirements for Ujjwala Yojana.,document_query
+What paperwork should I submit for Skill India?,document_query
+What documents are required for National Scholarship?,document_query
+Which certificates do I need for Atal Pension Yojana?,document_query
+Do I need Aadhaar to apply for Jan Dhan Yojana?,document_query
+Tell me the document requirements for PM Kisan.,document_query
+What paperwork should I submit for Ayushman Bharat?,document_query
+What documents are required for PM Awas Yojana?,document_query
+Which certificates do I need for Ujjwala Yojana?,document_query
+Do I need Aadhaar to apply for Skill India?,document_query
+Tell me the document requirements for National Scholarship.,document_query
+What paperwork should I submit for Atal Pension Yojana?,document_query
+What documents are required for Jan Dhan Yojana?,document_query
+Which certificates do I need for PM Kisan?,document_query
+Do I need Aadhaar to apply for Ayushman Bharat?,document_query
+Tell me the document requirements for PM Awas Yojana.,document_query
+What paperwork should I submit for Ujjwala Yojana?,document_query
+What documents are required for Skill India?,document_query
+Which certificates do I need for National Scholarship?,document_query
+Do I need Aadhaar to apply for Atal Pension Yojana?,document_query
+Tell me the document requirements for Jan Dhan Yojana.,document_query
+What paperwork should I submit for PM Kisan?,document_query
+What documents are required for Ayushman Bharat?,document_query
+Which certificates do I need for PM Awas Yojana?,document_query
+Do I need Aadhaar to apply for Ujjwala Yojana?,document_query
+Tell me the document requirements for Skill India.,document_query
+What paperwork should I submit for National Scholarship?,document_query
+What documents are required for Atal Pension Yojana?,document_query
+Which certificates do I need for Jan Dhan Yojana?,document_query
+Do I need Aadhaar to apply for PM Kisan?,document_query
+Tell me the document requirements for Ayushman Bharat.,document_query
+What paperwork should I submit for PM Awas Yojana?,document_query
+What documents are required for Ujjwala Yojana?,document_query
+Which certificates do I need for Skill India?,document_query
+Do I need Aadhaar to apply for National Scholarship?,document_query
+Tell me the document requirements for Atal Pension Yojana.,document_query
+What paperwork should I submit for Jan Dhan Yojana?,document_query
+How do I apply for PM Kisan?,application_query
+What is the application process for Ayushman Bharat?,application_query
+Can I apply online for PM Awas Yojana?,application_query
+Where can I register for Ujjwala Yojana?,application_query
+Help me apply for Skill India.,application_query
+How do I apply for National Scholarship?,application_query
+What is the application process for Atal Pension Yojana?,application_query
+Can I apply online for Jan Dhan Yojana?,application_query
+Where can I register for PM Kisan?,application_query
+Help me apply for Ayushman Bharat.,application_query
+How do I apply for PM Awas Yojana?,application_query
+What is the application process for Ujjwala Yojana?,application_query
+Can I apply online for Skill India?,application_query
+Where can I register for National Scholarship?,application_query
+Help me apply for Atal Pension Yojana.,application_query
+How do I apply for Jan Dhan Yojana?,application_query
+What is the application process for PM Kisan?,application_query
+Can I apply online for Ayushman Bharat?,application_query
+Where can I register for PM Awas Yojana?,application_query
+Help me apply for Ujjwala Yojana.,application_query
+How do I apply for Skill India?,application_query
+What is the application process for National Scholarship?,application_query
+Can I apply online for Atal Pension Yojana?,application_query
+Where can I register for Jan Dhan Yojana?,application_query
+Help me apply for PM Kisan.,application_query
+How do I apply for Ayushman Bharat?,application_query
+What is the application process for PM Awas Yojana?,application_query
+Can I apply online for Ujjwala Yojana?,application_query
+Where can I register for Skill India?,application_query
+Help me apply for National Scholarship.,application_query
+How do I apply for Atal Pension Yojana?,application_query
+What is the application process for Jan Dhan Yojana?,application_query
+Can I apply online for PM Kisan?,application_query
+Where can I register for Ayushman Bharat?,application_query
+Help me apply for PM Awas Yojana.,application_query
+How do I apply for Ujjwala Yojana?,application_query
+What is the application process for Skill India?,application_query
+Can I apply online for National Scholarship?,application_query
+Where can I register for Atal Pension Yojana?,application_query
+Help me apply for Jan Dhan Yojana.,application_query
+Recommend schemes for farmers.,recommendation_query
+What government support is available for students?,recommendation_query
+Which schemes should a women explore?,recommendation_query
+Suggest useful government programs for senior citizens.,recommendation_query
+What benefits can a unemployed youth apply for?,recommendation_query
+Recommend schemes for small business owners.,recommendation_query
+What government support is available for persons with disabilities?,recommendation_query
+Which schemes should a rural families explore?,recommendation_query
+Suggest useful government programs for farmers.,recommendation_query
+What benefits can a students apply for?,recommendation_query
+Recommend schemes for women.,recommendation_query
+What government support is available for senior citizens?,recommendation_query
+Which schemes should a unemployed youth explore?,recommendation_query
+Suggest useful government programs for small business owners.,recommendation_query
+What benefits can a persons with disabilities apply for?,recommendation_query
+Recommend schemes for rural families.,recommendation_query
+What government support is available for farmers?,recommendation_query
+Which schemes should a students explore?,recommendation_query
+Suggest useful government programs for women.,recommendation_query
+What benefits can a senior citizens apply for?,recommendation_query
+Recommend schemes for unemployed youth.,recommendation_query
+What government support is available for small business owners?,recommendation_query
+Which schemes should a persons with disabilities explore?,recommendation_query
+Suggest useful government programs for rural families.,recommendation_query
+What benefits can a farmers apply for?,recommendation_query
+Recommend schemes for students.,recommendation_query
+What government support is available for women?,recommendation_query
+Which schemes should a senior citizens explore?,recommendation_query
+Suggest useful government programs for unemployed youth.,recommendation_query
+What benefits can a small business owners apply for?,recommendation_query
+Recommend schemes for persons with disabilities.,recommendation_query
+What government support is available for rural families?,recommendation_query
+Which schemes should a farmers explore?,recommendation_query
+Suggest useful government programs for students.,recommendation_query
+What benefits can a women apply for?,recommendation_query
+Recommend schemes for senior citizens.,recommendation_query
+What government support is available for unemployed youth?,recommendation_query
+Which schemes should a small business owners explore?,recommendation_query
+Suggest useful government programs for persons with disabilities.,recommendation_query
+What benefits can a rural families apply for?,recommendation_query
+What healthcare schemes are available?,category_query
+List education related government programs.,category_query
+Show me housing assistance schemes.,category_query
+What employment schemes exist?,category_query
+Tell me about agriculture support programs.,category_query
+What healthcare schemes are available?,category_query
+List education related government programs.,category_query
+Show me housing assistance schemes.,category_query
+What employment schemes exist?,category_query
+Tell me about agriculture support programs.,category_query
+What healthcare schemes are available?,category_query
+List education related government programs.,category_query
+Show me housing assistance schemes.,category_query
+What employment schemes exist?,category_query
+Tell me about agriculture support programs.,category_query
+What healthcare schemes are available?,category_query
+List education related government programs.,category_query
+Show me housing assistance schemes.,category_query
+What employment schemes exist?,category_query
+Tell me about agriculture support programs.,category_query
+What healthcare schemes are available?,category_query
+List education related government programs.,category_query
+Show me housing assistance schemes.,category_query
+What employment schemes exist?,category_query
+Tell me about agriculture support programs.,category_query
+What healthcare schemes are available?,category_query
+List education related government programs.,category_query
+Show me housing assistance schemes.,category_query
+What employment schemes exist?,category_query
+Tell me about agriculture support programs.,category_query
+What healthcare schemes are available?,category_query
+List education related government programs.,category_query
+Show me housing assistance schemes.,category_query
+What employment schemes exist?,category_query
+Tell me about agriculture support programs.,category_query
+What schemes are available in Maharashtra?,state_query
+Does Karnataka offer student scholarships?,state_query
+Are there welfare programs in Gujarat?,state_query
+What farmer schemes are active in Rajasthan?,state_query
+Tell me about state benefits in Tamil Nadu.,state_query
+What schemes are available in Kerala?,state_query
+Does Uttar Pradesh offer student scholarships?,state_query
+Are there welfare programs in Maharashtra?,state_query
+What farmer schemes are active in Karnataka?,state_query
+Tell me about state benefits in Gujarat.,state_query
+What schemes are available in Rajasthan?,state_query
+Does Tamil Nadu offer student scholarships?,state_query
+Are there welfare programs in Kerala?,state_query
+What farmer schemes are active in Uttar Pradesh?,state_query
+Tell me about state benefits in Maharashtra.,state_query
+What schemes are available in Karnataka?,state_query
+Does Gujarat offer student scholarships?,state_query
+Are there welfare programs in Rajasthan?,state_query
+What farmer schemes are active in Tamil Nadu?,state_query
+Tell me about state benefits in Kerala.,state_query
+What schemes are available in Uttar Pradesh?,state_query
+Does Maharashtra offer student scholarships?,state_query
+Are there welfare programs in Karnataka?,state_query
+What farmer schemes are active in Gujarat?,state_query
+Tell me about state benefits in Rajasthan.,state_query
+What schemes are available in Tamil Nadu?,state_query
+Does Kerala offer student scholarships?,state_query
+Are there welfare programs in Uttar Pradesh?,state_query
+What farmer schemes are active in Maharashtra?,state_query
+Tell me about state benefits in Karnataka.,state_query
+What schemes are available in Gujarat?,state_query
+Does Rajasthan offer student scholarships?,state_query
+Are there welfare programs in Tamil Nadu?,state_query
+What farmer schemes are active in Kerala?,state_query
+Tell me about state benefits in Uttar Pradesh.,state_query
+What is the deadline for PM Kisan?,deadline_query
+When is the last date to apply for Ayushman Bharat?,deadline_query
+Does PM Awas Yojana have an application closing date?,deadline_query
+By when should I register for Ujjwala Yojana?,deadline_query
+When does enrollment end for Skill India?,deadline_query
+What is the deadline for National Scholarship?,deadline_query
+When is the last date to apply for Atal Pension Yojana?,deadline_query
+Does Jan Dhan Yojana have an application closing date?,deadline_query
+By when should I register for PM Kisan?,deadline_query
+When does enrollment end for Ayushman Bharat?,deadline_query
+What is the deadline for PM Awas Yojana?,deadline_query
+When is the last date to apply for Ujjwala Yojana?,deadline_query
+Does Skill India have an application closing date?,deadline_query
+By when should I register for National Scholarship?,deadline_query
+When does enrollment end for Atal Pension Yojana?,deadline_query
+What is the deadline for Jan Dhan Yojana?,deadline_query
+When is the last date to apply for PM Kisan?,deadline_query
+Does Ayushman Bharat have an application closing date?,deadline_query
+By when should I register for PM Awas Yojana?,deadline_query
+When does enrollment end for Ujjwala Yojana?,deadline_query
+What is the deadline for Skill India?,deadline_query
+When is the last date to apply for National Scholarship?,deadline_query
+Does Atal Pension Yojana have an application closing date?,deadline_query
+By when should I register for Jan Dhan Yojana?,deadline_query
+When does enrollment end for PM Kisan?,deadline_query
+What is the deadline for Ayushman Bharat?,deadline_query
+When is the last date to apply for PM Awas Yojana?,deadline_query
+Does Ujjwala Yojana have an application closing date?,deadline_query
+By when should I register for Skill India?,deadline_query
+When does enrollment end for National Scholarship?,deadline_query
+What is the deadline for Atal Pension Yojana?,deadline_query
+When is the last date to apply for Jan Dhan Yojana?,deadline_query
+Does PM Kisan have an application closing date?,deadline_query
+By when should I register for Ayushman Bharat?,deadline_query
+When does enrollment end for PM Awas Yojana?,deadline_query
+Which department manages PM Kisan?,authority_query
+Who is responsible for Ayushman Bharat?,authority_query
+Which ministry runs PM Awas Yojana?,authority_query
+What authority oversees Ujjwala Yojana?,authority_query
+Who handles applications for Skill India?,authority_query
+Which department manages National Scholarship?,authority_query
+Who is responsible for Atal Pension Yojana?,authority_query
+Which ministry runs Jan Dhan Yojana?,authority_query
+What authority oversees PM Kisan?,authority_query
+Who handles applications for Ayushman Bharat?,authority_query
+Which department manages PM Awas Yojana?,authority_query
+Who is responsible for Ujjwala Yojana?,authority_query
+Which ministry runs Skill India?,authority_query
+What authority oversees National Scholarship?,authority_query
+Who handles applications for Atal Pension Yojana?,authority_query
+Which department manages Jan Dhan Yojana?,authority_query
+Who is responsible for PM Kisan?,authority_query
+Which ministry runs Ayushman Bharat?,authority_query
+What authority oversees PM Awas Yojana?,authority_query
+Who handles applications for Ujjwala Yojana?,authority_query
+Which department manages Skill India?,authority_query
+Who is responsible for National Scholarship?,authority_query
+Which ministry runs Atal Pension Yojana?,authority_query
+What authority oversees Jan Dhan Yojana?,authority_query
+Who handles applications for PM Kisan?,authority_query
+Which department manages Ayushman Bharat?,authority_query
+Who is responsible for PM Awas Yojana?,authority_query
+Which ministry runs Ujjwala Yojana?,authority_query
+What authority oversees Skill India?,authority_query
+Who handles applications for National Scholarship?,authority_query
+Which department manages Atal Pension Yojana?,authority_query
+Who is responsible for Jan Dhan Yojana?,authority_query
+Which ministry runs PM Kisan?,authority_query
+What authority oversees Ayushman Bharat?,authority_query
+Who handles applications for PM Awas Yojana?,authority_query
+How can I check my PM Kisan application status?,status_query
+Where do I track my Ayushman Bharat request?,status_query
+Has my PM Awas Yojana application been approved?,status_query
+When will I receive updates on Ujjwala Yojana?,status_query
+How do I know the status of my Skill India application?,status_query
+How can I check my National Scholarship application status?,status_query
+Where do I track my Atal Pension Yojana request?,status_query
+Has my Jan Dhan Yojana application been approved?,status_query
+When will I receive updates on PM Kisan?,status_query
+How do I know the status of my Ayushman Bharat application?,status_query
+How can I check my PM Awas Yojana application status?,status_query
+Where do I track my Ujjwala Yojana request?,status_query
+Has my Skill India application been approved?,status_query
+When will I receive updates on National Scholarship?,status_query
+How do I know the status of my Atal Pension Yojana application?,status_query
+How can I check my Jan Dhan Yojana application status?,status_query
+Where do I track my PM Kisan request?,status_query
+Has my Ayushman Bharat application been approved?,status_query
+When will I receive updates on PM Awas Yojana?,status_query
+How do I know the status of my Ujjwala Yojana application?,status_query
+How can I check my Skill India application status?,status_query
+Where do I track my National Scholarship request?,status_query
+Has my Atal Pension Yojana application been approved?,status_query
+When will I receive updates on Jan Dhan Yojana?,status_query
+How do I know the status of my PM Kisan application?,status_query
+How can I check my Ayushman Bharat application status?,status_query
+Where do I track my PM Awas Yojana request?,status_query
+Has my Ujjwala Yojana application been approved?,status_query
+When will I receive updates on Skill India?,status_query
+How do I know the status of my National Scholarship application?,status_query
+How can I check my Atal Pension Yojana application status?,status_query
+Where do I track my Jan Dhan Yojana request?,status_query
+Has my PM Kisan application been approved?,status_query
+When will I receive updates on Ayushman Bharat?,status_query
+How do I know the status of my PM Awas Yojana application?,status_query
+How do I access government welfare services?,general_query
+I need help finding public assistance programs.,general_query
+What government support is available for citizens?,general_query
+How can I get help from government services?,general_query
+Guide me through available public benefits.,general_query
+How do I access government welfare services?,general_query
+I need help finding public assistance programs.,general_query
+What government support is available for citizens?,general_query
+How can I get help from government services?,general_query
+Guide me through available public benefits.,general_query
+How do I access government welfare services?,general_query
+I need help finding public assistance programs.,general_query
+What government support is available for citizens?,general_query
+How can I get help from government services?,general_query
+Guide me through available public benefits.,general_query
+How do I access government welfare services?,general_query
+I need help finding public assistance programs.,general_query
+What government support is available for citizens?,general_query
+How can I get help from government services?,general_query
+Guide me through available public benefits.,general_query
+How do I access government welfare services?,general_query
+I need help finding public assistance programs.,general_query
+What government support is available for citizens?,general_query
+How can I get help from government services?,general_query
+Guide me through available public benefits.,general_query
+How do I access government welfare services?,general_query
+I need help finding public assistance programs.,general_query
+What government support is available for citizens?,general_query
+How can I get help from government services?,general_query
+Guide me through available public benefits.,general_query
+How do I access government welfare services?,general_query
+I need help finding public assistance programs.,general_query
+What government support is available for citizens?,general_query
+How can I get help from government services?,general_query
+Guide me through available public benefits.,general_query
+How do I access government welfare services?,general_query
+I need help finding public assistance programs.,general_query
+What government support is available for citizens?,general_query
+How can I get help from government services?,general_query
+Guide me through available public benefits.,general_query
+How do I get a birth certificate?,certificate_query
+What documents are needed for a income certificate?,certificate_query
+Where can I apply for a caste certificate?,certificate_query
+What is the process for obtaining a domicile certificate?,certificate_query
+How long does it take to receive a residence certificate?,certificate_query
+How do I get a death certificate?,certificate_query
+What documents are needed for a marriage certificate?,certificate_query
+Where can I apply for a disability certificate?,certificate_query
+What is the process for obtaining a character certificate?,certificate_query
+How long does it take to receive a birth certificate?,certificate_query
+How do I get a income certificate?,certificate_query
+What documents are needed for a caste certificate?,certificate_query
+Where can I apply for a domicile certificate?,certificate_query
+What is the process for obtaining a residence certificate?,certificate_query
+How long does it take to receive a death certificate?,certificate_query
+How do I get a marriage certificate?,certificate_query
+What documents are needed for a disability certificate?,certificate_query
+Where can I apply for a character certificate?,certificate_query
+What is the process for obtaining a birth certificate?,certificate_query
+How long does it take to receive a income certificate?,certificate_query
+How do I get a caste certificate?,certificate_query
+What documents are needed for a domicile certificate?,certificate_query
+Where can I apply for a residence certificate?,certificate_query
+What is the process for obtaining a death certificate?,certificate_query
+How long does it take to receive a marriage certificate?,certificate_query
+How do I get a disability certificate?,certificate_query
+What documents are needed for a character certificate?,certificate_query
+Where can I apply for a birth certificate?,certificate_query
+What is the process for obtaining a income certificate?,certificate_query
+How long does it take to receive a caste certificate?,certificate_query
+How do I get a domicile certificate?,certificate_query
+What documents are needed for a residence certificate?,certificate_query
+Where can I apply for a death certificate?,certificate_query
+What is the process for obtaining a marriage certificate?,certificate_query
+How long does it take to receive a disability certificate?,certificate_query
+How do I get a character certificate?,certificate_query
+What documents are needed for a birth certificate?,certificate_query
+Where can I apply for a income certificate?,certificate_query
+What is the process for obtaining a caste certificate?,certificate_query
+How long does it take to receive a domicile certificate?,certificate_query
+How do I get a residence certificate?,certificate_query
+What documents are needed for a death certificate?,certificate_query
+Where can I apply for a marriage certificate?,certificate_query
+What is the process for obtaining a disability certificate?,certificate_query
+How long does it take to receive a character certificate?,certificate_query
